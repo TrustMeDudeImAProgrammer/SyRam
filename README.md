@@ -1,1 +1,1 @@
-Its basic C code not precompiled. And its only compatible with linux.
+Its basic C code that shows your free and total ram space in bytes thats precompiled. And its only compatible with linux.
